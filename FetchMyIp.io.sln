@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FetchMyIp.Api", "FetchMyIp.Api\FetchMyIp.Api.csproj", "{4AD6737D-09E7-43CA-99BD-3E2DF397497E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FetchMyIp.v6", "FetchMyIp.v6\FetchMyIp.v6.csproj", "{95F98A2F-6039-414F-9B6F-C0F14EB5894C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4AD6737D-09E7-43CA-99BD-3E2DF397497E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AD6737D-09E7-43CA-99BD-3E2DF397497E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AD6737D-09E7-43CA-99BD-3E2DF397497E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F98A2F-6039-414F-9B6F-C0F14EB5894C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F98A2F-6039-414F-9B6F-C0F14EB5894C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F98A2F-6039-414F-9B6F-C0F14EB5894C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F98A2F-6039-414F-9B6F-C0F14EB5894C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
