@@ -1,5 +1,11 @@
 # FetchMyIP
-FetchMyIP is a simple API for retrieving the IP address of the requester. It supports multiple formats including Plain Text, JSON, XML, JSONP, and custom JSONP callbacks.
+FetchMyIP is a simple API for retrieving the IP address of the requester.<br>
+Maybe you're provisioning new cloud servers and need to know your IP or you're behind a complex firewall.<br>
+What ever the reason getting you're public IP is useful!<br>
+
+It supports multiple formats including Plain Text, JSON, XML, JSONP, and custom JSONP callbacks.<br>
+
+This project has a MIT License
 
 ## API Endpoints
 - Plain Text: <br>
